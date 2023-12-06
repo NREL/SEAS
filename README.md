@@ -1,4 +1,4 @@
-# SEAS
+# SEAS-core
 
 Package used for connecting external simulations to HELICS and allowing them to run and communicate with each other in a well-defined way.
 
