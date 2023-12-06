@@ -9,9 +9,9 @@ Contacts are:
 
 ## Installation
 
-SEAS is shipped as a python package and is installable from local source via pip. To install:
+SEAS is shipped as a python package and is installable from source via pip. To install:
 
-`git clone git@github.nrel.gov:SEAS/SEAS.git`
+`pip install https://github.com/NREL/SEAS/blob/main/SEAS.tar.gz?raw=true`
 
 
 ## Usage
