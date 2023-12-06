@@ -1,11 +1,17 @@
-# SEAS-core
+# SEAS-communication engine
 
 Package used for connecting external simulations to HELICS and allowing them to run and communicate with each other in a well-defined way.
 
 Contacts are:
+- Kinshuk Panda
+
+Authors:
 - Deepthi Vaidhynathan
 - Kinshuk Panda
 - Sam Helman
+- Wes Jones
+- Jen King
+- Slava Barsuk
 
 ## Installation
 
